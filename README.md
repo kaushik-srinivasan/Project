@@ -16,5 +16,5 @@ Assumptions, exclusions, and other tasks:
 1. The missing data has been filled using the linear interpolation method.
 2. The linear regression model uses all the features to make predictions.
 3. The 795 generated features are based on the paper.
-4. The data was extracted from Bloomberg and the relevant features were calculated in Excel. The values are transferred to Data_ANN.
+4. The data was extracted from Bloomberg and the relevant features were calculated in Excel. The values are transferred to data_ann (2).
 
