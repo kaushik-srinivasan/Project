@@ -7,7 +7,7 @@ Please use [nbviewer]([url](https://nbviewer.org/)https://nbviewer.org/) if not 
 Data source: Bloomberg
 Thanks to Manuel Nunesa, Enrico Gerdinga, Frank McGroartyb, and Mahesan Niranjana. 
 
-Thanks to Dr. Manuel Nunes for providing the link to the [additional material]([url](https://eprints.soton.ac.uk/425965/)https://eprints.soton.ac.uk/425965/) and other information.
+Thanks to Dr. Manuel Nunes for providing the link to the additional material https://eprints.soton.ac.uk/425965/ and other information.
 
 The data was cleaned, transformed, and modeled based on the paper "Artificial Neural Networks in Fixed Income Markets for Yield Curve Forecasting" DOI: https://dx.doi.org/10.2139/ssrn.3144622
 
